@@ -1,1 +1,1 @@
-## [Prism](https://prismjs.com/) definition of the Archetype language.
+[Prism](https://prismjs.com/) definition for the [Archetype](https://archetype-lang.org/) language.
