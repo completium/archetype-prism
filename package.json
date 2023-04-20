@@ -1,0 +1,25 @@
+{
+  "name": "@completium/archetype-prism",
+  "version": "1.0.0",
+  "description": "Archetype prism definition",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/completium/archetype-prism.git"
+  },
+  "keywords": [
+    "archetype",
+    "prism",
+    "blockchain",
+    "tezos"
+  ],
+  "author": "benoit.rognier@edukera.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/completium/dialectik-prism-archetype/issues"
+  },
+  "homepage": "https://github.com/completium/dialectik-prism-archetype#readme"
+}
